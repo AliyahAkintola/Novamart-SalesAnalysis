@@ -1,4 +1,4 @@
-# 🛒 NovaMart Sales Performance Analysis
+#  NovaMart Sales Performance Analysis
 
 Welcome to my first data analysis project! This marks the beginning of my data science journey, inspired by the ALX Professional Foundations course where we were encouraged to dive deeper into our tech specialization. As a Data Science learner, I decided to start strong with Excel and Power BI.
 
