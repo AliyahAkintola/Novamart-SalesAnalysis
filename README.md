@@ -23,7 +23,7 @@ Welcome to my first data analysis project! This marks the beginning of my data s
 
 - `NovaMart Analysis.xlsx` – Excel workbook with data cleaning, pivot analysis, and dashboards.
 - `NovaMart Report.pbix` – Power BI report file with interactive dashboards.
-- `Orders_Data.csv` – Cleaned dataset containing all sales info.
+- `NovaMart_Portfolio_Project.zip` – Cleaned dataset containing all sales info.
 - `Summary Report.docx` – Written summary of insights, business recommendations, and observations.
 
 ---
@@ -49,7 +49,7 @@ This project is a stepping stone into more advanced analytics. In future project
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
 I'm **Akintola Aliyah**, a recent First-Class graduate in Economics, a Chartered Accountant, and now a Data Science enthusiast. This is the first of many projects on my journey to becoming a Business Intelligence Analyst and Consultant.
 
@@ -57,6 +57,6 @@ I'm **Akintola Aliyah**, a recent First-Class graduate in Economics, a Chartered
 
 ---
 
-### 💼 Project Type: Beginner – Portfolio Building  
-### 🚀 Status: Completed ✅
+### Project Type: Beginner 
+### Status: Completed 
 
